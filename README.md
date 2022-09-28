@@ -1,9 +1,9 @@
 <img src="title.PNG" />
-Lo que más me gusta es la programación de videojuegos retro para sisteas de 8 bits
+Lo que más me gusta es la programación de videojuegos retro para sistemas de 8 bits
 
 What I like the most is the programming of retro video games for 8-bit systems
 
-Despues el desarrollo de aplicaciones para dispositivos móviles.
+Después el desarrollo de aplicaciones para dispositivos móviles.
 
 After the development of applications for mobile devices:
 
