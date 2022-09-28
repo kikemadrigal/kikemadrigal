@@ -1,11 +1,11 @@
 <img src="title.PNG" />
 Lo que más me gusta es la programación de videojuegos retro para sisteas de 8 bits
 
-despues el desarrollo de aplicaciones para dispositivos móviles.
-
 What I like the most is the programming of retro video games for 8-bit systems
 
-after the development of applications for mobile devices:
+Despues el desarrollo de aplicaciones para dispositivos móviles.
+
+After the development of applications for mobile devices:
 
 https://play.google.com/store/apps/details?id=es.tipolisto.msxquiz
 
@@ -24,7 +24,6 @@ http://msx.tipolisto.es/
 https://fotomapa.es/
 
  👋 
-
+ 
 Gracias por leerme.
-
 Thanks for reading me.
