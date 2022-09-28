@@ -1,4 +1,4 @@
-
+<img src="title.PNG" />
 Lo que más me gusta es la programación de videojuegos retro para sisteas de 8 bits
 despues el desarrollo de aplicaciones para dispositivos móviles.
 What I like the most is the programming of retro video games for 8-bit systems
