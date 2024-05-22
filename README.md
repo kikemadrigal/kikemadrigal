@@ -1,7 +1,9 @@
 <img src="title.PNG" />
 Lo que más me gusta es la programación de videojuegos retro para sistemas de 8 bits
 Soy uno de los ganadores del concurso [Concurso 40 aniversario MSX-BASIC](https://www.msxblog.es/concurso-40-aniversario-msx-basic-leo-must-live/)
-<div sttyle="text-align: center;"><img src="taza.png"  height="200px/></div>
+
+<div sttyle="width: 500px;margin-left: auto;margin-right: auto;"><img src="taza.png"  height="200px/></div>
+
 
 
 What I like the most is the programming of retro video games for 8-bit systems
