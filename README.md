@@ -2,7 +2,7 @@
 Lo que más me gusta es la programación de videojuegos retro para sistemas de 8 bits
 Soy uno de los ganadores del concurso [Concurso 40 aniversario MSX-BASIC](https://www.msxblog.es/concurso-40-aniversario-msx-basic-leo-must-live/)
 
-<div style="width: 500px;margin-left: auto;margin-right: auto;"><img src="taza.png"  height="200px/></div><br>
+<div style="width: 500px;margin-left: auto;margin-right: auto;"><img src="taza.png"  height="200px"/></div><br>
 
 
 
