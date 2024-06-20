@@ -1,10 +1,9 @@
 <img src="title.PNG" />
+
 Lo que más me gusta es la programación de videojuegos retro para sistemas de 8 bits
-Soy uno de los ganadores del concurso [Concurso 40 aniversario MSX-BASIC](https://www.msxblog.es/concurso-40-aniversario-msx-basic-leo-must-live/)<br>
+Soy uno de los ganadores del concurso <a href="ttps://www.msxblog.es/concurso-40-aniversario-msx-basic-leo-must-live/">Concurso 40 aniversario MSX-BASIC]
 
 <div style="width: 500px;margin-left: auto;margin-right: auto;"><img src="taza.png"  height="200px"/></div><br>
-
-
 
 What I like the most is the programming of retro video games for 8-bit systems
 
@@ -16,19 +15,18 @@ https://play.google.com/store/apps/details?id=es.tipolisto.msxquiz
 
 https://play.google.com/store/apps/details?id=es.tipolisto.breeds
 
-https://play.google.com/console/u/0/developers/6558457830274399488/app/4972630508756278520/app-dashboard?timespan=thirtyDays
 
 Por último las aplicaciones web php.
 
 Finally the php web applications:
 
-http://www.tipolisto.es/
+http://tipolisto.es/
 
 http://msx.tipolisto.es/
 
-https://fotomapa.es/
+https://audiotours.es/
 
- 👋 
+ 👋
  
 Gracias por leerme.
 Thanks for reading me.
