@@ -40,7 +40,7 @@ https://audiotours.es/
 
 [![YouTube](https://img.shields.io/badge/YouTube-Kike_Madrigal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/KLEO_UejznDAY-vcU7lNRw)
 
-Escríbeme un emial dréctamente <a href="https://tipolisto.es/about.php?web=github.com/kikemadrigal">pinchando aquí :email:</a>
+Escríbeme un email dréctamente <a href="https://tipolisto.es/about.php?web=github.com/kikemadrigal">pinchando aquí :email:</a>
 
 
  👋
