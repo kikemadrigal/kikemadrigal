@@ -34,13 +34,13 @@ https://audiotours.es/
 <hr>
 
 
+Escríbeme un email diréctamente <a href="https://tipolisto.es/about.php?web=github.com/kikemadrigal">pinchando aquí :email:</a>
 
 
 [![Email](https://img.shields.io/badge/kikemadrigal@hotmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kikemadrigal@hotmail)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Kike_Madrigal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/KLEO_UejznDAY-vcU7lNRw)
 
-Escríbeme un email dréctamente <a href="https://tipolisto.es/about.php?web=github.com/kikemadrigal">pinchando aquí :email:</a>
 
 
  👋
